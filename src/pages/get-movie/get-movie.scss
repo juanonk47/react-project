@@ -1,0 +1,13 @@
+.movieContainer {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+}
+.img-poster {
+  width: 57% !important;
+  height: auto !important;
+  flex-basis: !important;
+  opacity: 1;
+  flex-basis: 0px;
+  flex-grow: 0;
+}
